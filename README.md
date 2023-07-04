@@ -24,7 +24,7 @@ Have an aesthetically pleasing visual design and architecture.
 
 Has collection of many web pages including Home,Login,Register,Buy,Sell,and Feedback.
 
-User can also give their feedback through our website.
+Users can also give their feedback through our website.
 
 Screenshots:
 
