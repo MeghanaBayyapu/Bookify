@@ -6,8 +6,11 @@ This web application is developed to help students to read the book they wish to
 Web technoogies used for project:
 
 -HTML
+
 -CSS
+
 -JavaScript
+
 -PHP
 
 Features and Functionalities:
