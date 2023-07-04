@@ -28,7 +28,11 @@ User can also give their feedback through our website.
 
 Screenshots:
 
+
+
 Home page:
+
+
 
 ![Screenshot (31)](https://github.com/MeghanaBayyapu/Bookify/assets/108140348/2bb03a09-b6c4-42c0-abd8-1d206fd2ffea)
 
@@ -40,15 +44,27 @@ Home page:
 
 ![Screenshot (35)](https://github.com/MeghanaBayyapu/Bookify/assets/108140348/7eba08bc-9f30-466c-83ab-86cefedea45c)
 
+
+
 Login page:
+
+
 
 ![Screenshot (29)](https://github.com/MeghanaBayyapu/Bookify/assets/108140348/b7b3fa55-adeb-4518-822a-3f4efd006713)
 
+
+
 Register page:
+
+
 
 ![Screenshot (30)](https://github.com/MeghanaBayyapu/Bookify/assets/108140348/ab7428f0-6b2e-4d5f-b895-a10fe9a9d42d)
 
+
+
 Buy page:
+
+
 
 ![Screenshot (37)](https://github.com/MeghanaBayyapu/Bookify/assets/108140348/d46ae935-8356-48b4-af5d-dc72c2756327)
 
@@ -60,11 +76,19 @@ Buy page:
 
 ![Screenshot (41)](https://github.com/MeghanaBayyapu/Bookify/assets/108140348/37b8fffe-ce89-49a6-aaf9-fb3a6b9d1504)
 
+
+
 Sell page:
+
+
 
 ![Screenshot (43)](https://github.com/MeghanaBayyapu/Bookify/assets/108140348/7ea983a9-e40a-4f79-bf34-fe09b86943ae)
 
+
+
 Feedback form:
+
+
 
 ![Screenshot (44)](https://github.com/MeghanaBayyapu/Bookify/assets/108140348/88dcbcba-fdf0-40fb-af5f-2775236a0e15)
 
