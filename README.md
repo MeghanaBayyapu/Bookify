@@ -54,8 +54,6 @@ Buy page:
 
 ![Screenshot (38)](https://github.com/MeghanaBayyapu/Bookify/assets/108140348/9df63389-dfd7-4c29-94a3-e30b2bd189c4)
 
-![Screenshot (39)](https://github.com/MeghanaBayyapu/Bookify/assets/108140348/c2fb93b1-f8a0-4b97-abd5-e61dc8a34b46)
-
 ![Screenshot (40)](https://github.com/MeghanaBayyapu/Bookify/assets/108140348/83247230-b093-4fb2-95d1-b18568a2d5d4)
 
 ![Screenshot (42)](https://github.com/MeghanaBayyapu/Bookify/assets/108140348/55c0449b-6d0d-4923-893f-2e152487a629)
